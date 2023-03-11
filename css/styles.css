@@ -63,7 +63,7 @@ img {
   border-radius: 10px;
   animation: 10ms;
 }
-input[type='text'] {
+.busqueda-var {
   border: none;
   border-radius: 20px;
   text-align: center;
